@@ -1,4 +1,13 @@
-## Hi there 👋
+## Sejam bem-vindos ao meu mundo!
+
+![gif gatinho](https://media1.tenor.com/m/bCfpwMjfAi0AAAAC/cat-typing.gif)
+
+🌇 Uberlândia <br>
+🎖️ 2 Projetos destaques na Puc Minas
+
+## Minhas tecnologias 
+
+![JScript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg)
 
 <!--
 **Douglassilvah/Douglassilvah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
