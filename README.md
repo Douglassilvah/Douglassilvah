@@ -22,7 +22,7 @@
 
   ![Douglassilvah GitHub stats](https://github-readme-stats.vercel.app/api?username=Douglassilvah&show_icons=true&theme=dracula)
 
-   ![Douglassilvah GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Douglassilvah&layout=compact&langs_count=7&&theme=dracula)
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglassilvah&layout=compact&langs_count=7&&theme=dracula" />
 <!--
 **Douglassilvah/Douglassilvah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
