@@ -7,12 +7,13 @@
 
 ## Minhas tecnologias 
 
+<p align="center">
 <img width="100px" 
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-
  <img width="100px" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-
+  <img width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+</p>
 
   |Curso| Certificado|
   |-----|------------|
@@ -20,6 +21,8 @@
 
 
   ![Douglassilvah GitHub stats](https://github-readme-stats.vercel.app/api?username=Douglassilvah&show_icons=true&theme=dracula)
+
+   ![Douglassilvah GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Douglassilvah&layout=compact&langs_count=7&&theme=dracula)
 <!--
 **Douglassilvah/Douglassilvah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
